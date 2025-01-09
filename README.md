@@ -14,6 +14,6 @@ Data remains even after closing the app
 
 User-friendly and responsive UI
 
-💻 Technologies Used
 
+💻 Technologies Used
 HTML, CSS, JavaScript
