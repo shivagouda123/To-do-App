@@ -16,4 +16,5 @@ User-friendly and responsive UI
 
 
 💻 Technologies Used
+
 HTML, CSS, JavaScript
